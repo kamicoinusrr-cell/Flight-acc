@@ -1,1 +1,1 @@
-worker: python flight_claims.py
+worker: python "flight claims.py"
